@@ -3,7 +3,7 @@ A list of social media sizing specs perfect for designers, marketers, and creato
 
 ---
 
-## **Complete Social Media Image Size Table (2024)**
+## **Complete Social Media Image Size Table**
 
 | **Platform**     | **Feed Posts**                                         | **Stories / Reels / Shorts**         | **Banners / Covers / Headers**                          | **Profile Picture**       | **Extras**                                                                 |
 |------------------|--------------------------------------------------------|--------------------------------------|----------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------|
