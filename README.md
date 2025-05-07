@@ -1,11 +1,9 @@
 # social-media-sizing
-A list of social media sizing
-
-You got it! Here's a **comprehensive 2024 Social Media Image Size Guide** 📐 with **expanded details** — perfect for designers, marketers, and creators who want every post to look 🔥 across all platforms.
+A list of social media sizing specs perfect for designers, marketers, and creators who want every post to look 🔥 across all platforms.
 
 ---
 
-## ✅ **Complete Social Media Image Size Table (2024)**
+## **Complete Social Media Image Size Table (2024)**
 
 | **Platform**     | **Feed Posts**                                         | **Stories / Reels / Shorts**         | **Banners / Covers / Headers**                          | **Profile Picture**       | **Extras**                                                                 |
 |------------------|--------------------------------------------------------|--------------------------------------|----------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------|
