@@ -1,3 +1,5 @@
+![Social Media Sizing Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/social-media-sizing/cover_social-media-sizing.png)
+
 # social-media-sizing
 A list of social media sizing specs perfect for designers, marketers, and creators who want every post to look 🔥 across all platforms.
 
