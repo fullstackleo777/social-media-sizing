@@ -1,9 +1,8 @@
 ![Social Media Sizing Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/social-media-sizing/cover_social-media-sizing.png)
 
 # social-media-sizing
-A list of social media sizing specs perfect for designers, marketers, and creators who want every post to look 🔥 across all platforms.
 
----
+Info Regarding Social Media Multimedia Sizing - FullStackLeo
 
 ## **Complete Social Media Image Size Table**
 
@@ -23,12 +22,10 @@ A list of social media sizing specs perfect for designers, marketers, and creato
 | **Twitter (X)**  | - **1200×675** px <br> - Max: **5MB** JPG/PNG/GIF      | *N/A*                                | - **1500×500** px (Header Image)                         | **400×400** px             | - Link preview image: **800×418** px or **800×320** px                     |
 | **YouTube**      | - Video Thumbnail: **1280×720** px                     | - Shorts: **1080×1920** px (Vertical) | - Channel Art: **2560×1440** px <br> Safe Area: **1546×423** px center    | **800×800** px             | - Min channel banner upload: **2048×1152** px                              |
 
----
-
 ## 🔍 **Pro Tips**
 - 📱 **Safe Zones**: Always center key elements to avoid mobile cropping.
 - 💾 **Format Best Practices**: Use **PNG** for graphics/logos, **JPG** for photos, and **MP4** for videos.
 - 🎥 **Max Video Sizes**: Instagram Reels (90 sec), TikTok (10 min), YouTube Shorts (60 sec), Facebook (240 min)
 - 🖼️ **Resolution Rule**: Always export at **72 DPI for web**, and use **sRGB color mode**.
 
----
+___
